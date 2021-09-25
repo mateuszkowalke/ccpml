@@ -1,0 +1,5 @@
+g++
+
+%cpp -std=c++11 -lpython3.6
+
+-I/usr/include/python3.6
